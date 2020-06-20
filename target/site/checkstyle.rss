@@ -19,14 +19,14 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>LabCodingStandards - Checkstyle report</title>
+    <title>CodingStandards - Checkstyle report</title>
     <link>${project.url}</link>
-    <description>LabCodingStandards - Checkstyle report</description>
+    <description>CodingStandards - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2020</copyright>
     <item>
       <title>File: 1,
-             Errors: 5,
+             Errors: 10,
              Warnings: 0,
              Infos: 0
       </title>
@@ -55,7 +55,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  10
                 </td>
               </tr>
                       </tbody>
